@@ -1,0 +1,51 @@
+<test>
+    <url_einfo>https://www.einfochips.com/</url_einfo>
+    <image_text>Get started on Naukri</image_text>
+    <first>Get personalised job recommendations
+based on profile</first>
+    <second>Track your job applications and get
+real-time updates</second>
+    <third>Recruiters directly connect with eligible
+candidates via chat</third>
+    <search_job>automation testing</search_job>
+    <search_loc>Bangalore</search_loc>
+    <filter_opt>Companies</filter_opt>
+    <check_box>Wipro</check_box>
+    <validaterror>Please enter criteria for the job you want to search</validaterror>
+
+
+    <headerText>Create your Naukri profile</headerText>
+    <defEmailText>Email address</defEmailText>
+    <defPassText>Create password</defPassText>
+    <defPhoneText>Mobile number</defPhoneText>
+
+    <name>Random Name</name>
+    <email>cekogi3937@loongwin.com</email>
+    <mobile>1234567890</mobile>
+    <password>123qwe</password>
+
+    <invalidName>123ABC</invalidName>
+    <invalidEmail>123@123.com</invalidEmail>
+    <invalidMobile>12345</invalidMobile>
+    <invalidPassword>123</invalidPassword>
+
+    <invalidText0>Full name is required</invalidText0>
+    <invalidText1>Email ID is required</invalidText1>
+    <invalidText2>Password is required</invalidText2>
+    <invalidText3>Please Enter a valid Mobile Number of 10 digits</invalidText3>
+
+
+    <header>Login</header>
+    <emailBtn>Email</emailBtn>
+    <unameButton>Username</unameButton>
+    <emailTextBox>Enter your email address</emailTextBox>
+    <passTextBox>Enter password</passTextBox>
+    <fgtPassLink>Forgot password</fgtPassLink>
+    <loginButton>Login</loginButton>
+    <orSection>or</orSection>
+    <loginSection>Login using</loginSection>
+    <googleButton>Google</googleButton>
+    <whatsAppButton>WhatsApp</whatsAppButton>
+    <regforfreeLink>Register for free</regforfreeLink>
+
+</test>
